@@ -1,0 +1,55 @@
+{
+    "messages": {
+        "wellcome":"\uD83C\uDDF9\uD83C\uDDEF  Салом. Пеш аз оғоз кардан, лутфан забони худро интихоб кунед.\n\uD83C\uDDF7\uD83C\uDDFA Здравствуйте. Перед тем как начать, выберите ваш язык.\n\uD83C\uDDEC\uD83C\uDDE7 Hello. Before you start, please select your language.",
+
+        "ru":{
+            "introduction":"Я бот консультант Вавилон-Мобайл. \nЯ расскажу сколько денег и бонусов у вас на счету, \nкакие подключены услуги и тарифный план.\n Помогу сменить тариф или подключить пакет",
+            "SIM_ask":"Вы пользуетесь SIM-картой Вавилон-Мобайл?",
+            "err_use_sim_card":"Ответьте, пожалуйста, вы пользуетесь SIM-картой Вавилон-Мобайл?",
+            "enter_invalid_lang": "Пожалуйста выберите правильный язык.",
+            "enter_your_phone": "Введите ваш номер телефона в формате ХХХХХХХХХ (последние 9 цифр)",
+            "enter_your_phone2": "Введите правильный номер\nXXXXXXXXX (последние 9 цифр)",
+            "go_to":"Подключайтесь к Вавилон-Мобайл и управляйте своими услугами в любимом мессенджере! https://auction.tj/",
+            "invalid_phone":"invalid_phone",
+            "packages": "Ваши пакеты: Идёт разрабботка",
+            "services": "Ваши услуги: Идёт разрабботка",
+            "tarifs": "Ваши тарифи: ",
+            "balance": "Ваш баланс:  ",
+            "online_operator":"Напишите свой вопрос.\n Оператор ответит вам в ближайшее время!"
+
+        },
+        "eng":{
+            "introduction":"I am Babilon's bot consultant. \nI'll tell you how much money and bonuses \nyou have in your account, \nwhat services and tariff plan are connected. \nI 'll help you change the tariff or activate the package.",
+            "SIM_ask":"Do you use the Babilon-Mobile SIM card?",
+            "err_use_sim_card":"Answer, please, do you use the Babilon-Mobile  SIM card",
+            "enter_invalid_lang": "Choose a correct language please!",
+            "enter_your_phone":"Enter your phone number in XXXXXXXXX (last 9 digits) format",
+            "enter_your_phone2": "Enter the correct number\nXXXXXXXXX (last 9 digits)",
+            "go_to":"Connect to Babilon-Mobile and manage your services in your favorite messenger! https://auction.tj/",
+            "invalid_phone":"invalid_phone",
+            "packages": "Your packages: In process",
+            "services": "Your services: In process",
+            "tarifs": "Your tarifs:  ",
+            "balance": "Your balance: ",
+            "online_operator":"Write your question.\n The operator will reply you soon!"
+
+        },
+        "tj":{
+            "introduction":"Ман бот-мушовири Вавилон-Мобайл ҳастам. \nМан мегӯям, ки дар ҳисоби Шумо чи миқдор  \nтавозун ва бонус вуҷуд дорад, кадом хизматрасониҳою кадом тарофа пайваст аст. \nДар ивази тарофа ё пайвасткунии баста кӯмак мекунам.",
+            "SIM_ask":"Шумо SIM-корти Вавилон-Мобайл истифода мебаред?",
+            "err_use_sim_card":"Лутфан, ҷавоб диҳед, шумо SIM-корти Вавилон-Мобайл истифода мебаред",
+            "enter_invalid_lang": "Забонро дуруст интихоб намоед!",
+            "enter_your_phone": "Рақами телефони худро дар шакли XXXХХХХХХ (9 рақами охир) ворид намоед.",
+            "enter_your_phone2": "Рақами дурустро ворид кунед\nXXXХХХХХХ (9 рақами охир)",
+            "go_to":"Подключайтесь к Вавилон-Мобайл и управляйте своими услугами в любимом мессенджере! https://auction.tj/",
+            "invalid_phone":"invalid_phone",
+            "balance": "Тавозуни ҷори: ",
+            "tarifs": "Тарифхои шумо : ",
+            "packages": "Пакетхои шумо: Дар холати коркард ...",
+            "services": "Хизматрасонихои дастрас: Дар холати коркард",
+            "online_operator":"Саволи худро нависед.\n Оператор ба зудӣ ба шумо ҷавоб хоҳад дод!"
+
+        }
+
+    }
+}

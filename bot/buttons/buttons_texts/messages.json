@@ -1,0 +1,39 @@
+{
+    "messages": {
+        "ru":{
+            "yes": "Да",
+            "no": "Нет" ,
+            "cancel_button":"Отмена",
+            "balance": "Баланс",
+            "tarifs": "Мой Тариф",
+            "packages": "Пакеты",
+            "services": "Услуги",
+            "online_operator":"Онлайн консультант",
+            "close_conversation":"Завершить беседу"
+        },
+        "eng":{
+            "yes": "Yes",
+            "no": "No" ,
+            "cancel_button":"Cancel",
+            "balance": "Balance",
+            "tarifs": "Tarifs",
+            "packages": "Packagese",
+            "services": "Services",
+            "online_operator":"Online operator",
+            "close_conversation":"Close conversation"
+            
+
+        },
+        "tj":{
+            "yes": "Бале",
+            "no": "Не",
+            "cancel_button":"Баргаштан",
+            "balance": "Тавозун",
+            "tarifs": "Тарифхо",
+            "packages": "Бастаҳо",
+            "services": "Хизматрасонихо",
+            "online_operator":"Тамос бо амалгар",
+            "close_conversation":"Анчоми сухбат"
+        }
+    }
+}

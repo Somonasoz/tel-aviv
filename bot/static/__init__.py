@@ -1,0 +1,1 @@
+from .messages.message_reader import GlobalMessage
