@@ -4,7 +4,7 @@ from bot import dp, languales_menu, GlobalMessage, store, Fetcher, msg_introduct
 from aiogram import types, executor
 from aiogram.dispatcher import FSMContext
 from bot.core import GROUP_ID
-
+#ali
 def phone_is_valid(value):
     import re
     is_number = bool(re.match('^[0-9]+$', value))
